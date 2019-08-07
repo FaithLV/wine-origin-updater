@@ -1,5 +1,6 @@
 #!/bin/bash
 
+WINEPREFIX="/sdc1/WinePrefixRepo/origin"
 PATH32="drive_c/Program Files/Origin"
 PATH64="drive_c/Program Files (x86)/Origin"
 UPDATEPATH=""
